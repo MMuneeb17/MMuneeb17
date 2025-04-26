@@ -54,7 +54,7 @@ I design and develop modern web applications and interactive websites with a foc
 I'm always excited to exchange ideas and collaborate on innovative projects. Feel free to connect with me:
 
 - 📧 **Email:** [mmunibrehman@gmail.com](mailto:mmunibrehman@gmail.com)
-- 🔗 **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/muneeb17/])
+- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muneeb17/)
 
 ---
 <picture>
