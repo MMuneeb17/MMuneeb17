@@ -1,21 +1,41 @@
 # Hi, I'm Muneeb ur Rehman 👋
 
-Motivated, proactive, and hands-on developer with 2+ years’ experience developing and
- managing information systems for software development and cloud-based companies.
- Energetic team leader with strong organizational skills and history of developing beautiful and
- user-friendly applications.
+Motivated, proactive, and hands-on developer with 2+ years of experience developing and managing information systems for software development and cloud-based companies. Energetic team leader with strong organizational skills and a track record of delivering beautiful, user-friendly, and reliable applications.
 
 ---
 
-## 💡 About Me
+## 💼 Experience
 
-- 🔥 **Expertise:** HTML, CSS, JavaScript, PHP, ReactJs, NodeJs, MongoDB, MySQL
-- ⚙️ **Specializations:** Web application development, plugin creation, complex SQL query writing, and system debugging.
-- 🚀 **Passion:** Building interactive, user-friendly digital experiences and troubleshooting code to ensure robust performance.
+### *The Panther Tech* — Full Stack Engineer  
+- Built responsive front-ends using React.js and Next.js.  
+- Developed REST APIs with Django and Laravel for seamless data exchange and integrations.
+
+### *LinknB1t* — Back-End Engineer  
+- Engineered scalable server-side solutions in PHP (Laravel) and Python (Django).  
+- Designed and optimized data models using MySQL and PostgreSQL for robust backend performance.
+
+### *Freelancing* — Full Stack Engineer  
+- Delivered tailor-made web applications for international clients.  
+- Handled end-to-end development: front-end interfaces and back-end systems.
+
+### *Fauji Cement* — Management Trainee Officer (Networking Specialist)  
+- Configured network hardware and optimized IT infrastructure.  
+- Ensured smooth day-to-day operations through proactive troubleshooting and performance tuning.
 
 ---
 
-# 🛠️ Tech Stack:
+## 🎯 Skills & Technologies
+
+- *Languages & Frameworks:* HTML, CSS, JavaScript, PHP, C#, Python, React.js, Next.js, Vue.js, Django, Laravel  
+- *Back‑end Tools:* Jetstream, npm, Laravel Mix, MUI  
+- *Databases:* MySQL, PostgreSQL, Oracle, MongoDB  
+- *Cloud & Platforms:* AWS, Firebase, Heroku, DigitalOcean, Vercel  
+- *Systems & Tools:* SAP, Networking, Troubleshooting, complex SQL querying  
+- *Design & UI:* Figma, Canva, TailwindCSS
+
+---
+
+# 🛠 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -40,23 +60,30 @@ Motivated, proactive, and hands-on developer with 2+ years’ experience develop
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+---
+
+## 🎓 Education
+
+*Bachelor’s in Computer Science*  
+COMSATS University Islamabad (2018 – 2023)
 
 ---
 
 ## 🌟 What I Do
 
-I design and develop modern web applications and interactive websites with a focus on clean, efficient code and optimized performance. Whether it’s enhancing LMS platforms like Moodle or building robust backend solutions, I’m dedicated to delivering high-quality digital experiences.
+I design and develop modern full-stack web applications, specializing in both front-end and back-end engineering. My background spans React.js, Next.js interfaces, Django and Laravel APIs, as well as network infrastructure configuration and troubleshooting. I’m passionate about clean, efficient codebases and optimized performance—from scalable systems to seamless user experiences.
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let’s Connect!
 
-I'm always excited to exchange ideas and collaborate on innovative projects. Feel free to connect with me:
+Feel free to reach out—I'm always up for exchanging ideas and collaborating on innovative projects:
 
-- 📧 **Email:** [mmunibrehman@gmail.com](mailto:mmunibrehman@gmail.com)
-- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muneeb17/)
+- 📧 *Email:* [mmunibrehman@gmail.com](mailto:mmunibrehman@gmail.com)  
+- 🔗 *LinkedIn:* [Connect with me](https://www.linkedin.com/in/muneeb17/)
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake.svg" />
@@ -65,4 +92,4 @@ I'm always excited to exchange ideas and collaborate on innovative projects. Fee
 
 ---
 
-*Thank you for visiting my profile! Let's build something amazing together.* 🚀
+Thank you for visiting my profile! Let’s build something amazing together. 
