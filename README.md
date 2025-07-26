@@ -1,6 +1,6 @@
 # Hi, I'm Muneeb ur Rehman 👋
 
-Motivated, proactive, and hands-on developer with 2+ years of experience developing and managing information systems for software development and cloud-based companies. Energetic team leader with strong organizational skills and a track record of delivering beautiful, user-friendly, and reliable applications.
+Motivated, proactive, and hands-on developer with  years of experience in developing and managing information systems for software development and cloud-based companies. Energetic team leader with strong organizational skills and a track record of delivering beautiful, user-friendly, and reliable applications.
 
 ---
 
