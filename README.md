@@ -81,7 +81,7 @@ Feel free to reach out—I'm always up for exchanging ideas and collaborating on
 
 - 📧 *Email:* [mmunibrehman@gmail.com](mailto:mmunibrehman@gmail.com)  
 - 🔗 *LinkedIn:* [Connect with me](https://www.linkedin.com/in/muneeb17/)
-- - 🔗 *Portfolio:* [Connect with me](https://muneeb-portfolio-two.vercel.app)
+- 🔗 *Portfolio:* [Connect with me](https://muneeb-portfolio-two.vercel.app)
 
 ---
 
