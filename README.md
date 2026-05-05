@@ -1,41 +1,59 @@
-# Hi, I'm Muneeb ur Rehman 👋
+# Hi, I'm Muhammad Muneeb ur Rehman
 
-Motivated, proactive, and hands-on developer with  years of experience in developing and managing information systems for software development and cloud-based companies. Energetic team leader with strong organizational skills and a track record of delivering beautiful, user-friendly, and reliable applications.
+Full-Stack & DevOps Engineer based in Pakistan (PKT, UTC+5). I build, deploy, and maintain production web applications from empty repo to live URL: schema design, API development, frontend implementation, cloud deployment, server administration, and CI/CD automation.
 
----
-
-## 💼 Experience
-
-### *The Panther Tech* — Full Stack Engineer  
-- Built responsive front-ends using React.js and Next.js.  
-- Developed REST APIs with Django and Laravel for seamless data exchange and integrations.
-
-### *LinknB1t* — Back-End Engineer  
-- Engineered scalable server-side solutions in PHP (Laravel) and Python (Django).  
-- Designed and optimized data models using MySQL and PostgreSQL for robust backend performance.
-
-### *Freelancing* — Full Stack Engineer  
-- Delivered tailor-made web applications for international clients.  
-- Handled end-to-end development: front-end interfaces and back-end systems.
-
-### *Fauji Cement* — Management Trainee Officer (Networking Specialist)  
-- Configured network hardware and optimized IT infrastructure.  
-- Ensured smooth day-to-day operations through proactive troubleshooting and performance tuning.
+I am comfortable owning products end to end, integrating AI capabilities into web platforms, and shaping cloud-native systems that are reliable, maintainable, and ready for real users.
 
 ---
 
-## 🎯 Skills & Technologies
+## Professional Experience
 
-- *Languages & Frameworks:* HTML, CSS, JavaScript, PHP, C#, Python, React.js, Next.js, Vue.js, Django, Laravel  
-- *Back‑end Tools:* Jetstream, npm, Laravel Mix, MUI  
-- *Databases:* MySQL, PostgreSQL, Oracle, MongoDB  
-- *Cloud & Platforms:* AWS, Firebase, Heroku, DigitalOcean, Vercel  
-- *Systems & Tools:* SAP, Networking, Troubleshooting, complex SQL querying  
-- *Design & UI:* Figma, Canva, TailwindCSS
+### **Fauji Cement Company Limited** - Management Trainee Officer  
+**Nov 2024 - Present**
+
+- Built **FCCMS (Fauji Cement Colony Management System)** end to end as the sole developer, covering resident records, repair and maintenance, inventory, and complaint workflows.
+- Owned database schema, APIs, frontend, and deployment using **Laravel, Next.js, and TypeScript**.
+- Wrote Python automation tools for daily IT operations, including a network scanner and remote installer for endpoint software deployment.
+- Supported EMS, ERP, network, hardware troubleshooting, and general IT operations.
+
+### **Capregsoft** - Software Engineer  
+**Jun 2022 - Sep 2024**
+
+- Architected and developed full-stack web applications across the SDLC, including relational database design, Laravel and Django REST APIs, and responsive React/Next.js frontends.
+- Worked with **TypeScript, MySQL, PostgreSQL, Laravel, Django, React, and Next.js**.
+- Delivered production features through Git-based version control, peer code review, agile sprint cycles, object-oriented design, performance optimization, and CI/CD practices.
+
+### **Freelance** - Full-Stack & DevOps Engineer  
+**Jan 2021 - Present**
+
+- Delivered independent remote work through Upwork, Fiverr, and direct local clients.
+- Engineered and shipped full-stack applications for international and local clients using React/Next.js, TypeScript, Laravel, Django, and REST APIs.
+- Handled database design, cloud deployment, post-launch maintenance, customization, feature development, and bug fixes across existing codebases.
+- Shipped production-ready AI integrations, including LLM-powered features, conversational interfaces, and automation flows using OpenAI, Anthropic Claude, and Google Gemini APIs.
+- Completed contract engagements with teams including Panther Tech, focusing on reliability, performance, and clean handoffs.
+
+### **LinknB1t** - Software Engineer  
+**Aug 2020 - Mar 2022**
+
+- Started as a PHP intern and was promoted to Software Engineer within the first month.
+- Engineered and maintained Laravel applications backed by MySQL.
+- Built dynamic, real-time interfaces with Laravel Livewire and AJAX-driven workflows.
 
 ---
 
-# 🛠 Tech Stack:
+## Skills
+
+- **Languages & Frameworks:** PHP, Laravel, JavaScript, TypeScript, Next.js, React, Vue.js, TailwindCSS, Python, Django, C#, ABAP, Bash, HTML5, CSS3, REST API design
+- **Databases:** PostgreSQL, MySQL, Oracle, SQL, MongoDB
+- **Cloud & DevOps:** AWS EC2, Docker, Nginx, Cloudflare, Linux, Ubuntu, Git, GitHub, GitHub Actions, GitLab CI, server administration, deployment automation
+- **AI Integration:** OpenAI, Anthropic Claude, Google Gemini, Google AI Studio, LLM API integration, prompt engineering
+- **Enterprise & IT Operations:** SAP, ABAP development, Power BI, ERP, EMS, network troubleshooting, hardware troubleshooting, IT support
+- **Soft Skills:** Async remote communication, end-to-end project ownership, technical documentation, cross-functional collaboration
+
+---
+
+# Tech Stack:
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -59,29 +77,40 @@ Motivated, proactive, and hands-on developer with  years of experience in develo
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🎓 Education
+## Education & Credentials
 
-*Bachelor’s in Computer Science*  
-COMSATS University Islamabad (2018 – 2023)
+**COMSATS University Islamabad** - Bachelor of Science in Computer Science  
+**Sep 2018 - Jun 2023**
+
+**Amal Academy Career-Prep Fellow (Stanford-funded)**  
+**Dec 2021 - Feb 2022**
+
+Selected from 4,500+ applicants for a 150-hour program in communication, leadership, and problem-solving.
 
 ---
 
-## 🌟 What I Do
+## What I Do
 
-I design and develop modern full-stack web applications, specializing in both front-end and back-end engineering. My background spans React.js, Next.js interfaces, Django and Laravel APIs, as well as network infrastructure configuration and troubleshooting. I’m passionate about clean, efficient codebases and optimized performance—from scalable systems to seamless user experiences.
+I design, build, deploy, and maintain modern full-stack applications with a focus on reliability, performance, and clean ownership. My work spans Laravel and Django APIs, React/Next.js interfaces, SQL-backed systems, DevOps automation, cloud deployment, and AI-powered web features.
 
 ---
 
-## 🤝 Let’s Connect!
+## Let's Connect
 
-Feel free to reach out—I'm always up for exchanging ideas and collaborating on innovative projects:
+I am open to remote roles, long-term contracts, and collaborations on serious software products.
 
-- 📧 *Email:* [mmunibrehman@gmail.com](mailto:mmunibrehman@gmail.com)  
-- 🔗 *LinkedIn:* [Connect with me](https://www.linkedin.com/in/muneeb17/)
-- 🔗 *Portfolio:* [Connect with me](https://muneeb-portfolio-two.vercel.app)
+- **Email:** [mmunibrehman@gmail.com](mailto:mmunibrehman@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muneeb17](https://www.linkedin.com/in/muneeb17/)
+- **GitHub:** [github.com/MMuneeb17](https://github.com/MMuneeb17)
+- **Portfolio:** [muneeb-portfolio-two.vercel.app](https://muneeb-portfolio-two.vercel.app)
 
 ---
 
@@ -93,4 +122,4 @@ Feel free to reach out—I'm always up for exchanging ideas and collaborating on
 
 ---
 
-Thank you for visiting my profile! Let’s build something amazing together. 
+Thank you for visiting my profile. Let's build something reliable, useful, and production-ready together.
