@@ -118,14 +118,16 @@ I am open to remote roles, long-term contracts, and collaborations on serious so
 - **Email:** [mmunibrehman@gmail.com](mailto:mmunibrehman@gmail.com)
 - **LinkedIn:** [linkedin.com/in/muneeb17](https://www.linkedin.com/in/muneeb17/)
 - **GitHub:** [github.com/MMuneeb17](https://github.com/MMuneeb17)
-- **Portfolio:** [muneeb-portfolio-two.vercel.app](https://muneeb-portfolio-two.vercel.app)
+- **Portfolio:** [muneeb-xi.vercel.app](https://muneeb-portfolio-two.vercel.app)
 
 ---
 
+## Contribution Graph Animation
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MMuneeb17/MMuneeb17/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MMuneeb17/MMuneeb17/blob/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://github.com/MMuneeb17/MMuneeb17/blob/output/github-snake.svg" />
 </picture>
 
 ---
