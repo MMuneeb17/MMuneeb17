@@ -125,9 +125,9 @@ I am open to remote roles, long-term contracts, and collaborations on serious so
 ## Contribution Graph Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MMuneeb17/MMuneeb17/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MMuneeb17/MMuneeb17/blob/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://github.com/MMuneeb17/MMuneeb17/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake-dark.svg?sanitize=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake.svg?sanitize=true" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MMuneeb17/MMuneeb17/output/github-snake.svg?sanitize=true" />
 </picture>
 
 ---
